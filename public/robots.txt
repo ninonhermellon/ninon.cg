@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Disallow: /clientok
+
+Sitemap: /sitemap.xml
